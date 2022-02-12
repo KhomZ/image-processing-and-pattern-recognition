@@ -9,7 +9,7 @@ Pattern is everything around in this digital world. A pattern can either be seen
 
 Example: The colors on the clothes, speech pattern, etc. In computer science, a pattern is represented using vector feature values. 
 
-## What is Pattern Recognition? 
+## [What is Pattern Recognition?](IPPR/PatternRecognition) 
 
 Pattern recognition is the process of recognizing patterns by using a machine learning algorithm. 
 
